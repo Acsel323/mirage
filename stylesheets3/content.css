@@ -1,0 +1,256 @@
+body {
+  width: 100%;
+  margin: 0 auto;
+  background: #F6F6F6;;
+  height: 3100px;
+  display: block;
+  position: absolute;
+}
+.mirage {
+  background: url('../images/mirage1280.png');
+  width: 264px;
+  height: 60px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 88px;
+  top: 40px;
+}
+.kv0 {
+  background-color: #EDF060;
+  position: absolute;
+  width: 95px;
+  height: 33px;
+  top: 45px;
+  left: 890px;
+}
+.p1 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 536px;
+  top: 45px;
+  color: #000000;
+}
+.p2 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 716px;
+  top: 45px;
+  color: #000000;
+}
+.p3 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 891px;
+  top: 45px;
+  color: #000000;
+}
+.p4 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 1056px;
+  top: 45px;
+  color: #000000;
+}
+.p5 {
+  position: absolute;
+  left: 88px;
+  top: 148px;
+  font-family: Polonium;
+  font-size: 40px;
+  letter-spacing: 0.1em;
+}
+.pl1 {
+  background: url('../images/p1.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 389px;
+  top: 238px;
+  left: 91px;
+}
+.pl2 {
+  background: url('../images/p2.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 389px;
+  top: 238px;
+  left: 370px;
+}
+.pl3 {
+  background: url('../images/p3.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 389px;
+  top: 238px;
+  left: 650px;
+}
+.pl4 {
+  background: url('../images/p4.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 389px;
+  top: 238px;
+  left: 930px;
+}
+.kv1 {
+  background: #EDF060;
+  position: absolute;
+  width: 270px;
+  height: 52px;
+  left: 104px;
+  top: 709px;
+}
+.kv2 {
+  position: absolute;
+  width: 270px;
+  height: 52px;
+  left: 88px;
+  top: 725px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.p6 {
+  font-family: Montserrat;
+  font-size: 30px;
+  position: absolute;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+.pl5 {
+  background: url('../images/p5.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 373px;
+  top: 830px;
+  left: 88px;
+}
+.pl6 {
+  background: url('../images/p6.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 373px;
+  top: 830px;
+  left: 373px;
+}
+.pl7 {
+  background: url('../images/p7.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 373px;
+  top: 830px;
+  left: 658px;
+}
+.pl8 {
+  background: url('../images/p8.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 373px;
+  top: 830px;
+  left: 943px;
+}
+.kv3 {
+  background: #EDF060;
+  position: absolute;
+  width: 418px;
+  height: 103px;
+  left: 116px;
+  top: 1286px;
+}
+.kv4 {
+  position: absolute;
+  width: 418px;
+  height: 103px;
+  left: 88px;
+  top: 1314px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.pl9 {
+  position: absolute;
+  left: 88px;
+  top: 1470px;
+}
+.pl10 {
+  background: url('../images/p10.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 432px;
+  height: 647px;
+  top: 1286px;
+  left: 761px;
+}
+.kv5 {
+  background: #EDF060;
+  position: absolute;
+  width: 337px;
+  height: 137px;
+  left: 855px;
+  top: 1984px;
+}
+.kv6 {
+  position: absolute;
+  width: 337px;
+  height: 137px;
+  left: 825px;
+  top: 2014px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.kv7 {
+  background: #EDF060;
+  position: absolute;
+  width: 774px;
+  height: 103px;
+  left: 121px;
+  top: 2233px;
+}
+.kv8 {
+  position: absolute;
+  width: 774px;
+  height: 103px;
+  left: 88px;
+  top: 2266px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.pl11 {
+  background: url('../images/p11.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 352px;
+  height: 528px;
+  top: 2423px;
+  left: 88px;
+}
+.pl12 {
+  background: url('../images/p12.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 352px;
+  height: 528px;
+  top: 2423px;
+  left: 464px;
+}
+.pl13 {
+  background: url('../images/p13.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 352px;
+  height: 528px;
+  top: 2423px;
+  left: 840px;
+}
