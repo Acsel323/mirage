@@ -1,0 +1,81 @@
+body {
+  width: 100%;
+  margin: 0 auto;
+  background: #F6F6F6;;
+  height: 850px;
+  display: block;
+  position: absolute;
+}
+.mirage {
+  background: url('../images/mirage1280.png');
+  width: 264px;
+  height: 60px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 88px;
+  top: 40px;
+}
+.kv0 {
+  background-color: #EDF060;
+  position: absolute;
+  width: 124px;
+  height: 33px;
+  top: 45px;
+  left: 1054px;
+}
+.p1 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 536px;
+  top: 45px;
+  color: #000000;
+}
+.p2 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 716px;
+  top: 45px;
+  color: #000000;
+}
+.p3 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 891px;
+  top: 45px;
+  color: #000000;
+}
+.p4 {
+  font-family: Montserrat;
+  font-size: 25px;
+  position: absolute;
+  left: 1056px;
+  top: 45px;
+  color: #000000;
+}
+.p5 {
+  position: absolute;
+  left: 88px;
+  top: 148px;
+  font-family: Polonium;
+  font-size: 40px;
+  letter-spacing: 0.1em;
+}
+.karta {
+  position: absolute;
+  width: 1104px;
+  height: 442px;
+  left: 88px;
+  top: 238px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.p6 {
+  position: absolute;
+  left: 88px;
+  top: 700px;
+  font-family: Montserrat;
+  font-size: 20px;
+}
