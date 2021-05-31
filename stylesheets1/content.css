@@ -15,7 +15,7 @@ body {
   position: absolute;
 }
 .mirage {
-  background: url('images/mirage1280.png');
+  background: url('../images/mirage1280.png');
   width: 264px;
   height: 60px;
   background-repeat: no-repeat;
@@ -80,6 +80,13 @@ body {
   font-family: Polonium;
   position: absolute;
   letter-spacing: 0.1em;
+}
+.px {
+  font-family: Montserrat;
+  font-size: 20px;
+  position: absolute;
+  left: 88px;
+  top: 502px;
 }
 .kr1 {
   background-color: #EDF060;
