@@ -5,6 +5,22 @@
     <link rel="stylesheet" href="stylesheets1/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <title>Главная</title>
+    <script type="text/javascript">
+    $(function() {
+      $('.f1 a').each(function() {
+    		$(this).on('click', function(e) {
+    			e.preventDefault();
+    			var scrollTo = $(this).attr('href');
+    			var whitespace = scrollTo == '#s1' ? 70 : -10;
+    			$('html,body').animate({
+    				scrollTop: $(scrollTo).offset().top - whitespace
+    			}, 100);
+    		});
+    	});
+    });
+    </script>
+    <!-- <link rel="icon" type="image/x-icon" href="images/logo.ico" />
+    <link rel="icon" type="image/png" href="imageslogo.png" /> -->
     <style media="screen">
 
 
@@ -39,10 +55,10 @@
       <p class = "px">Новый вид галлюцинаций, с которым занятия спортом станут интереснее!</p>
     </div>
     <div class="kr1"></div>
-    <div class="kr2">
+    <a href="#s1"><div class="kr2">
       <img src="images/st.png" alt="" class = "img1">
-    </div>
-    <p class="p5">Как работают очки</p>
+    </div></a>
+    <p class="p5" id="s1">Как работают очки</p>
     <p class="p6">Через очки вы&nbsp;можете видеть различные галлюцинации, как&nbsp;зрительные, так&nbsp;слуховые и&nbsp;обонятельные. Очки помогут отвлечься от&nbsp;скучной жизни
 и&nbsp;окунуться в&nbsp;совершенно новый мир! Вы&nbsp;можете выбрать себе очки
 с&nbsp;определенными видами галлюцинаций. Очки помогают справится
