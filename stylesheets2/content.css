@@ -179,6 +179,31 @@ body {
   left: 30px;
   background-repeat: no-repeat;
 }
+.kvx {
+  background-color: #EDF060;
+  position: absolute;
+  width: 292px;
+  height: 96px;
+  top: 13px;
+  left: 124px;
+}
+.kvy {
+  position: absolute;
+  width: 292px;
+  height: 96px;
+  top: 24px;
+  left: 113px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.px {
+  position: absolute;
+  font-family: Montserrat;
+  font-size: 24px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
 .t1:hover {
 background: url('../images/och1.png');
 }
