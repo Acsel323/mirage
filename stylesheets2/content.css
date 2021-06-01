@@ -199,10 +199,12 @@ body {
 .px {
   position: absolute;
   font-family: Montserrat;
-  font-size: 24px;
+  font-size: 20px;
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
+  width: 245px;
+  top: 50%;
 }
 .t1:hover {
 background: url('../images/och1.png');
