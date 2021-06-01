@@ -6,14 +6,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <title>Каталог</title>
     <script type="text/javascript">
-     $(document).ready(function(){
-       $("vop4").click(function(){
-         $(.t4).toggleClass("kvx");
-         $(.t4).toggleClass("kvy");
-         $(.kvy).toggleClass("px");
-       });
-     });
-   </script>
+      $(document).ready(function(){
+        $("vop1").click(function(){
+          $(.pop1).toggleClass("dis");
+        });
+      });
+    </script>
     <style media="screen">
     body::before {
       content: "";
@@ -42,55 +40,55 @@
     <a href="kontakti.html"><p class="p4">контакты</p></a>
     <p class="p5">Очки</p>
     <div class="t1">
-      <div class="popup pop1">
-        <div class="kvx"></div>
-        <div class="kvy">
-          <p class = "px">Галлюцинации добавляют энергию. С&nbsp;такими очками легче заниматься спортом</p>
-        </div>
-      </div>
       <div class="vopros vop1"></div>
       <div class="ochki1"></div>
       <div class="cena">
         <p class = "cen">100$</p>
       </div>
-    </div>
-    <div class="t2">
-      <div class="popup pop2">
+      <div class="popup pop1 dis">
         <div class="kvx"></div>
         <div class="kvy">
-          <p class = "px">Вместо  темных тонов видно яркие</p>
+          <p class = "px">Галлюцинации добавляют энергию. С&nbsp;такими очками легче заниматься спортом</p>
         </div>
       </div>
+    </div>
+    <div class="t2">
       <div class="vopros vop2"></div>
       <div class="ochki2"></div>
       <div class="cena">
         <p class = "cen">100$</p>
       </div>
-    </div>
-    <div class="t3">
-      <div class="popup pop3">
+      <div class="popup pop2 dis">
         <div class="kvx"></div>
         <div class="kvy">
-          <p class = "px">Галлюцинации мотивируютс и&nbsp;вдохновляют вас</p>
+          <p class = "px">Вместо  темных тонов видно яркие</p>
         </div>
       </div>
+    </div>
+    <div class="t3">
       <div class="vopros vop3"></div>
       <div class="ochki3"></div>
       <div class="cena">
         <p class = "cen">100$</p>
       </div>
-    </div>
-    <div class="t4">
-      <div class="popup pop4">
+      <div class="popup pop3 dis">
         <div class="kvx"></div>
         <div class="kvy">
-          <p class = "px">Вместо людей вы&nbsp;видите милых животных</p>
+          <p class = "px">Галлюцинации мотивируютс и&nbsp;вдохновляют вас</p>
         </div>
       </div>
+    </div>
+    <div class="t4">
       <div class="vopros vop4"></div>
       <div class="ochki4"></div>
       <div class="cena">
         <p class = "cen">100$</p>
+      </div>
+      <div class="popup pop4 dis">
+        <div class="kvx"></div>
+        <div class="kvy">
+          <p class = "px">Вместо людей вы&nbsp;видите милых животных</p>
+        </div>
       </div>
     </div>
   </body>
