@@ -19,7 +19,7 @@ body {
   background-color: #EDF060;
   position: absolute;
   width: 103px;
-  height: 33px;
+  height: 28px;
   top: 45px;
   left: 716px;
 }
@@ -206,6 +206,9 @@ body {
   width: 245px;
   top: 50%;
 }
+.dis {
+  display: none;
+}
 .t1:hover {
 background: url('../images/och1.png');
 }
@@ -219,15 +222,15 @@ background: url('../images/och3.png');
 .t4:hover {
 background: url('../images/och4.png');
 }
-.t1:hover ~ .t1 .ochki1 {
+.t1:hover > .ochki1 {
 opacity: 0;
 }
-.t2:hover ~ .t2 .ochki2 {
+.t2:hover > .ochki2 {
 opacity: 0;
 }
-.t3:hover ~ .t3 .ochki3 {
+.t3:hover > .ochki3 {
 opacity: 0;
 }
-.t4:hover ~ .t4 .ochki4 {
+.t4:hover > .ochki4 {
 opacity: 0;
 }
