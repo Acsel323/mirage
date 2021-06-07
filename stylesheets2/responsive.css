@@ -77,7 +77,10 @@
 .cena {
   width: 66px;
   height: 32px;
-  top: 245px;
+  top: 265px;
+}
+.cena2 {
+  top: 265px;
 }
 .cen {
   font-size: 25px;
@@ -111,13 +114,15 @@
   body {
   }
 } */
-@media only screen and (min-width: 414px) and (max-width: 567px) {
+@media only screen and (min-width: 414px) and (max-width: 768px) {
   body {
+    width: 100%;
+    height: 2500px;
   }
   .t1, .t2, .t3, .t4, .t5, .t6 {
-    width: 262px;
+    width: 362px;
     height: 322px;
-    margin: 0;
+    /* margin: 0; */
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
@@ -185,5 +190,28 @@
 } */
 @media only screen  and (min-width: 1840px) {
   body {
+    width: 100%;
+    height: 2000px;
+  }
+  .t2 {
+    left: calc(50% - 244px);
+    top: 238px;
+
+  }
+  .t3 {
+    top: 238px;
+    right: 6.88%;
+  }
+  .t4 {
+    top: 901px;
+    left: 6.88%;
+  }
+  .t5 {
+    left: calc(50% - 244px);
+    top: 901px;
+  }
+  .t6 {
+    top: 901px;
+    right: 6.88%;
   }
 }
