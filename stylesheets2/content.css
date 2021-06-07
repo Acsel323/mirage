@@ -2,7 +2,7 @@ body {
   width: 100%;
   margin: 0 auto;
   background: #F6F6F6;;
-  height: 1488px;
+  height: 2200px;
   display: block;
   position: absolute;
 }
@@ -12,7 +12,7 @@ body {
   height: 60px;
   background-repeat: no-repeat;
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 40px;
 }
 .kv0 {
@@ -21,13 +21,13 @@ body {
   width: 103px;
   height: 28px;
   top: 45px;
-  left: 716px;
+  left: 55.94%;
 }
 .p1 {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 536px;
+  left: 41.88%;
   top: 45px;
   color: #000000;
 }
@@ -35,7 +35,7 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 716px;
+  left: 55.94%;
   top: 45px;
   color: #000000;
 }
@@ -43,7 +43,7 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 891px;
+  left: 69.61%;
   top: 45px;
   color: #000000;
 }
@@ -51,13 +51,13 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 1056px;
+  left: 82.5%;
   top: 45px;
   color: #000000;
 }
 .p5 {
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 148px;
   font-family: Polonium;
   font-size: 40px;
@@ -65,7 +65,7 @@ body {
 }
 .t1 {
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 238px;
   width: 488px;
   height: 536px;
@@ -74,7 +74,7 @@ body {
 }
 .t2 {
   position: absolute;
-  left: 704px;
+  right: 6.88%;
   top: 238px;
   width: 488px;
   height: 536px;
@@ -83,8 +83,8 @@ body {
 }
 .t3 {
   position: absolute;
-  left: 88px;
-  top: 906px;
+  left: 6.88%;
+  top: 901px;
   width: 488px;
   height: 536px;
   border: 4px solid #000000;
@@ -92,8 +92,26 @@ body {
 }
 .t4 {
   position: absolute;
-  left: 704px;
-  top: 906px;
+  right: 6.88%;
+  top: 901px;
+  width: 488px;
+  height: 536px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.t5 {
+  position: absolute;
+  left: 6.88%;
+  top: 1563px;
+  width: 488px;
+  height: 536px;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+}
+.t6 {
+  position: absolute;
+  right: 6.88%;
+  top: 1563px;
   width: 488px;
   height: 536px;
   border: 4px solid #000000;
@@ -160,6 +178,30 @@ body {
 }
 .ochki4 {
   background: url('../images/ochki4.png');
+  position: absolute;
+  width: 360px;
+  height: 175px;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background-repeat: no-repeat;
+}
+.ochki5 {
+  background: url('../images/ochki5.png');
+  position: absolute;
+  width: 360px;
+  height: 175px;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background-repeat: no-repeat;
+}
+.ochki6 {
+  background: url('../images/ochki6.png');
   position: absolute;
   width: 360px;
   height: 175px;
@@ -260,10 +302,15 @@ background: url('../images/och2.png');
 }
 .t3:hover {
 background: url('../images/och3.png');
-
 }
 .t4:hover {
 background: url('../images/och4.png');
+}
+.t5:hover {
+background: url('../images/och5.png');
+}
+.t6:hover {
+background: url('../images/och6.png');
 }
 .t1:hover > .ochki1 {
 opacity: 0;
@@ -275,5 +322,11 @@ opacity: 0;
 opacity: 0;
 }
 .t4:hover > .ochki4 {
+opacity: 0;
+}
+.t5:hover > .ochki5 {
+opacity: 0;
+}
+.t6:hover > .ochki6 {
 opacity: 0;
 }
