@@ -12,7 +12,7 @@ body {
   height: 60px;
   background-repeat: no-repeat;
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 40px;
 }
 .kv0 {
@@ -21,13 +21,13 @@ body {
   width: 95px;
   height: 28px;
   top: 45px;
-  left: 890px;
+  left: 69.53%;
 }
 .p1 {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 536px;
+  left: 41.88%;
   top: 45px;
   color: #000000;
 }
@@ -35,7 +35,7 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 716px;
+  left: 55.94%;
   top: 45px;
   color: #000000;
 }
@@ -43,7 +43,7 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 891px;
+  left: 69.61%;
   top: 45px;
   color: #000000;
 }
@@ -51,13 +51,13 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 1056px;
+  left: 82.5%;
   top: 45px;
   color: #000000;
 }
 .p5 {
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 148px;
   font-family: Polonium;
   font-size: 40px;
@@ -70,7 +70,7 @@ body {
   width: 260px;
   height: 389px;
   top: 238px;
-  left: 91px;
+  left: 7.11%;
 }
 .pl2 {
   background: url('../images/p2.png');
@@ -79,7 +79,7 @@ body {
   width: 260px;
   height: 389px;
   top: 238px;
-  left: 370px;
+  left: 28.91%;
 }
 .pl3 {
   background: url('../images/p3.png');
@@ -88,7 +88,7 @@ body {
   width: 260px;
   height: 389px;
   top: 238px;
-  left: 650px;
+  left: 50.78%;
 }
 .pl4 {
   background: url('../images/p4.png');
@@ -97,21 +97,21 @@ body {
   width: 260px;
   height: 389px;
   top: 238px;
-  left: 930px;
+  left: 72.66%;
 }
 .kv1 {
   background: #EDF060;
   position: absolute;
   width: 270px;
   height: 52px;
-  left: 104px;
+  left: 8.13%;
   top: 709px;
 }
 .kv2 {
   position: absolute;
   width: 270px;
   height: 52px;
-  left: 88px;
+  left: 6.88%;
   top: 725px;
   border: 4px solid #000000;
   box-sizing: border-box;
@@ -133,7 +133,7 @@ body {
   width: 249px;
   height: 373px;
   top: 830px;
-  left: 88px;
+  left: 6.88%;
 }
 .pl6 {
   background: url('../images/p6.png');
@@ -142,7 +142,7 @@ body {
   width: 249px;
   height: 373px;
   top: 830px;
-  left: 373px;
+  left: 29.14%;
 }
 .pl7 {
   background: url('../images/p7.png');
@@ -151,7 +151,7 @@ body {
   width: 249px;
   height: 373px;
   top: 830px;
-  left: 658px;
+  left: 51.41%;
 }
 .pl8 {
   background: url('../images/p8.png');
@@ -160,28 +160,28 @@ body {
   width: 249px;
   height: 373px;
   top: 830px;
-  left: 943px;
+  left: 73.67%;
 }
 .kv3 {
   background: #EDF060;
   position: absolute;
   width: 418px;
   height: 103px;
-  left: 116px;
+  left: 9.06%;
   top: 1286px;
 }
 .kv4 {
   position: absolute;
   width: 418px;
   height: 103px;
-  left: 88px;
+  left: 6.88%;
   top: 1314px;
   border: 4px solid #000000;
   box-sizing: border-box;
 }
 .pl9 {
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 1470px;
 }
 .pl10 {
@@ -191,21 +191,21 @@ body {
   width: 432px;
   height: 647px;
   top: 1286px;
-  left: 761px;
+  left: 59.45%;
 }
 .kv5 {
   background: #EDF060;
   position: absolute;
   width: 337px;
   height: 137px;
-  left: 855px;
+  left: 66.8%;
   top: 1984px;
 }
 .kv6 {
   position: absolute;
   width: 337px;
   height: 137px;
-  left: 825px;
+  left: 64.45%;
   top: 2014px;
   border: 4px solid #000000;
   box-sizing: border-box;
@@ -215,14 +215,14 @@ body {
   position: absolute;
   width: 774px;
   height: 103px;
-  left: 121px;
+  left: 9.45%;
   top: 2233px;
 }
 .kv8 {
   position: absolute;
   width: 774px;
   height: 103px;
-  left: 88px;
+  left: 6.88%;
   top: 2266px;
   border: 4px solid #000000;
   box-sizing: border-box;
@@ -234,7 +234,7 @@ body {
   width: 352px;
   height: 528px;
   top: 2423px;
-  left: 88px;
+  left: 6.88%;
 }
 .pl12 {
   background: url('../images/p12.png');
@@ -243,7 +243,7 @@ body {
   width: 352px;
   height: 528px;
   top: 2423px;
-  left: 464px;
+  left: 36.25%;
 }
 .pl13 {
   background: url('../images/p13.png');
@@ -252,5 +252,5 @@ body {
   width: 352px;
   height: 528px;
   top: 2423px;
-  left: 840px;
+  left: 65.63%;
 }
