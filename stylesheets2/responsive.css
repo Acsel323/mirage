@@ -191,7 +191,7 @@
 @media only screen  and (min-width: 1840px) {
   body {
     width: 100%;
-    height: 2000px;
+    height: 1500px;
   }
   .t2 {
     left: calc(50% - 244px);
@@ -200,6 +200,7 @@
   }
   .t3 {
     top: 238px;
+    left: auto;
     right: 6.88%;
   }
   .t4 {
