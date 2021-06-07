@@ -20,7 +20,7 @@ body {
   height: 60px;
   background-repeat: no-repeat;
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 40px;
 }
 .kv0 {
@@ -29,13 +29,13 @@ body {
   width: 108px;
   height: 28px;
   top: 45px;
-  left: 533px;
+  left: 41.64%;
 }
 .p1 {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 536px;
+  left: 41.88%;
   top: 45px;
   color: #000000;
 }
@@ -43,7 +43,7 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 716px;
+  left: 55.94%;
   top: 45px;
   color: #000000;
 }
@@ -51,7 +51,7 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 891px;
+  left: 69.61%;
   top: 45px;
   color: #000000;
 }
@@ -59,22 +59,22 @@ body {
   font-family: Montserrat;
   font-size: 25px;
   position: absolute;
-  left: 1056px;
+  left: 82.5%;
   top: 45px;
   color: #000000;
 }
 .reklama {
   position: absolute;
   top: 121px;
-  left: : 0px;
+  left: : 0%;
   background-color: #EDF060;
-  width: 1280px;
+  width: 100%;
   height: 583px;
   border: 4px solid #000000;
   box-sizing: border-box;
 }
 .p0 {
-  left: 88px;
+  left: 6.88%;
   top: 88px;
   font-size: 106px;
   font-family: Polonium;
@@ -85,7 +85,7 @@ body {
   font-family: Montserrat;
   font-size: 20px;
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 502px;
 }
 .kr1 {
@@ -93,7 +93,7 @@ body {
   width: 96px;
   height: 96px;
   position: absolute;
-  left: 618px;
+  left: 48.28%;
   top: 760px;
   border-radius: 50%;
 }
@@ -104,7 +104,7 @@ body {
   width: 96px;
   height: 96px;
   position: absolute;
-  left: 592px;
+  left: 46.25%;
   top: 772px;
   border-radius: 50%;
 }
@@ -120,7 +120,7 @@ body {
   font-family: Polonium;
   font-size: 40px;
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 972px;
   letter-spacing: 0.1em;
 }
@@ -128,7 +128,7 @@ body {
   font-family: Montserrat;
   font-size: 20px;
   position: absolute;
-  left: 88px;
+  left: 6.88%;
   top: 1080px;
   width: 807px;
 }
@@ -136,14 +136,14 @@ body {
   font-family: Montserrat;
   font-size: 40px;
   position: absolute;
-  left: 180px;
+  left: 14.06%;
   top: 1265px;
 }
 .kv1 {
   position: absolute;
   width: 109px;
   height: 109px;
-  left: 88px;
+  left: 6.88%;
   top: 1400px;
   border: 4px solid #000000;
   box-sizing: border-box;
@@ -152,7 +152,7 @@ body {
   position: absolute;
   width: 109px;
   height: 109px;
-  left: 1100px;
+  left: 85.94%;
   top: 1400px;
   border: 4px solid #000000;
   box-sizing: border-box;
@@ -161,7 +161,7 @@ body {
   background: url('../images/gal1.png');
   position:absolute;
   top: 0px;
-  left: 0px;
+  left: 0%;
   width: 101px;
   height: 101px;
 }
@@ -180,7 +180,7 @@ body {
   font-family: Montserrat;
   font-size: 40px;
   position: absolute;
-  left: 104px;
+  left: 8.13%;
   top: 1578px;
 }
 .kv3 {
@@ -188,14 +188,14 @@ body {
   position: absolute;
   width: 475px;
   height: 88px;
-  left: 440px;
+  left: 34.38%;
   top: 1708px;
 }
 .kv4 {
   position: absolute;
   width: 475px;
   height: 88px;
-  left: 403px;
+  left: 31.48%;
   top: 1739px;
   border: 4px solid #000000;
   box-sizing: border-box;
@@ -205,7 +205,7 @@ body {
   position: absolute;
   width: 196px;
   height: 24px;
-  left: 542px;
+  left: 42.42%;
   top: 1842px;
 }
 .p9 {
@@ -223,7 +223,7 @@ body {
   font-family: Montserrat;
   font-size: 20px;
   position: absolute;
-  left: 542px;
+  left: 42.42%;
   top: 1845px;
   color: #000000;
 
