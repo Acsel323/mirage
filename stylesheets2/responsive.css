@@ -1,35 +1,190 @@
-@media only screen and (min-width: 900px) and (max-width: 1024px) {
+/* @media only screen and (min-width: 900px) and (max-width: 1024px) {
   body {
   }
+} */
+@media only screen and (min-width: 768px) and (max-width: 1280px) {
+  body {
+    width: 100%;
+    height: 1728px;
+  }
+  .p1, .p2, .p3, .p4 {
+    font-size: 20px;
+    top: 30px;
+  }
+  .p1 {
+    left: 27.47%;
+  }
+  .p2 {
+    left: 46.09%;
+  }
+  .p3 {
+    left: 64.32%;
+  }
+  .p4 {
+    left: 81.51%;
+  }
+  .p5 {
+    top: 98px;
+    left: 5.99%;
 }
-@media only screen and (min-width: 768px) and (max-width: 900px) {
+.mirage {
+  background: url('../images/mirage768.png');
+  width: 97px;
+  height: 22px;
+  top: 32px;
+  left: 5.99%;
+}
+.t1, .t2, .t3, .t4, .t5, .t6 {
+  width: 262px;
+  height: 322px;
+}
+.ochki1 {
+  background: url('../images/ochki12.png');
+  width: 210px;
+  height: 110px;
+  background-repeat: no-repeat;
+}
+.ochki2 {
+  background: url('../images/ochki22.png');
+  width: 220px;
+  height: 110px;
+  background-repeat: no-repeat;
+}
+.ochki3 {
+  background: url('../images/ochki32.png');
+  width: 215px;
+  height: 100px;
+  background-repeat: no-repeat;
+}
+.ochki4 {
+  background: url('../images/ochki42.png');
+  width: 210px;
+  height: 110px;
+  background-repeat: no-repeat;
+}
+.ochki5 {
+  background: url('../images/ochki52.png');
+  width: 210px;
+  height: 110px;
+  background-repeat: no-repeat;
+}
+.ochki6 {
+  background: url('../images/ochki62.png');
+  width: 210px;
+  height: 110px;
+  background-repeat: no-repeat;
+}
+.cena {
+  width: 66px;
+  height: 32px;
+  top: 245px;
+}
+.cen {
+  font-size: 25px;
+}
+.t1 {
+  left: 5.99%;
+  top: 182px
+}
+.t2 {
+  left: 350px;
+  top: 182px;
+}
+.t3 {
+  right: 5.99%;
+  top: 182px;
+}
+.t4 {
+  left: 5.99%;
+  top: 612px;
+}
+.t5 {
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  top: 612px;
+}
+.t6 {
+  right: 5.99%;
+  top: 612px;
+}
+}
+/* @media only screen and (min-width: 320px) and (max-width: 414px) {
   body {
   }
-}
-@media only screen and (min-width: 320px) and (max-width: 414px) {
-  body {
-  }
-}
+} */
 @media only screen and (min-width: 414px) and (max-width: 567px) {
   body {
   }
-}
-@media only screen and (min-width: 568px) and (max-width: 768px) {
-  body {
+  .t1, .t2, .t3, .t4, .t5, .t6 {
+    width: 262px;
+    height: 322px;
+    margin: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+  }
+  .ochki1 {
+    background: url('../images/ochki12.png');
+    width: 210px;
+    height: 110px;
+    background-repeat: no-repeat;
+  }
+  .ochki2 {
+    background: url('../images/ochki22.png');
+    width: 220px;
+    height: 110px;
+    background-repeat: no-repeat;
+  }
+  .ochki3 {
+    background: url('../images/ochki32.png');
+    width: 215px;
+    height: 100px;
+    background-repeat: no-repeat;
+  }
+  .ochki4 {
+    background: url('../images/ochki42.png');
+    width: 210px;
+    height: 110px;
+    background-repeat: no-repeat;
+  }
+  .ochki5 {
+    background: url('../images/ochki52.png');
+    width: 210px;
+    height: 110px;
+    background-repeat: no-repeat;
+  }
+  .ochki6 {
+    background: url('../images/ochki62.png');
+    width: 210px;
+    height: 110px;
+    background-repeat: no-repeat;
+  }
+  .cena {
+    width: 66px;
+    height: 32px;
+    top: 245px;
+  }
+  .cen {
+    font-size: 25px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+/* @media only screen and (min-width: 568px) and (max-width: 768px) {
+  body {
+  }
+} */
+/* @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   body{
   }
-}
-@media all and (min-width: 1440px) and (max-width: 1680px) {
+} */
+/* @media all and (min-width: 1440px) and (max-width: 1680px) {
   body {
   }
-}
-@media all and (min-width: 1366px) and (max-width: 1440px) {
+} */
+/* @media all and (min-width: 1366px) and (max-width: 1440px) {
   body {
   }
-}
+} */
 @media only screen  and (min-width: 1840px) {
   body {
   }
