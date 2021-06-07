@@ -35,7 +35,7 @@
   left: 5.99%;
 }
 .t1, .t2, .t3, .t4, .t5, .t6 {
-  width: 262px;
+  width: 362px;
   height: 322px;
 }
 .ochki1 {
@@ -87,26 +87,24 @@
   top: 182px
 }
 .t2 {
-  left: 350px;
-  top: 182px;
+  right: 5.99%;
+  top: 182px
 }
 .t3 {
-  right: 5.99%;
-  top: 182px;
+  left: 5.99%;
+  top: 612px
 }
 .t4 {
-  left: 5.99%;
-  top: 612px;
+  right: 5.99%;
+  top: 612px
 }
 .t5 {
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
-  top: 612px;
+  left: 5.99%;
+  top: 1042px
 }
 .t6 {
   right: 5.99%;
-  top: 612px;
+  top: 1042px
 }
 }
 /* @media only screen and (min-width: 320px) and (max-width: 414px) {
