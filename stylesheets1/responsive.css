@@ -4,7 +4,7 @@
 } */
 @media only screen and (min-width: 768px) and (max-width: 1280px) {
   body {
-    width: 100%;
+    width: 768px;
     height: 1728px;
   }
   .reklama {
@@ -42,55 +42,60 @@
   .p0 {
     font-size: 68px;
     left: 5.99%;
+    width: 556px;
   }
   .px {
     width: 440px;
-    top: 370px;
+    top: 561px;
+  }
+  .reklama {
+    height: 762px;
+    width: 768px;
   }
   .kr1 {
     left: 45.44%;
-    top: 680px;
+    top: 911px;
   }
   .kr2 {
     left: 42.06%;
-    top: 692px;
+    top: 923px;
   }
   .p5 {
-    top: 901px;
+    top: 1081px;
     left: 5.99%;
   }
   .p6 {
-    top: 985px;
+    top: 1165px;
     width: 604px;
     left: 5.99%;
   }
   .kv1 {
-    top: 1281px;
+    top: 1461px;
     left: 5.99%;
   }
   .kv2 {
-    top: 1281px;
+    top: 1461px;
     right: 5.99%;
   }
   .p7 {
     font-size: 25px;
-    top: 1178px;
+    top: 1358px;
   }
   .p8 {
     font-size: 25px;
-    top: 1474px;
+    top: 1654px;
   }
   .kv3 {
-    top: 1545px;
+    top: 1725px;
   }
   .kv4 {
-    top: 1576px;
+    top: 1756px;
   }
   .kv5 {
-    top: 1689px;
+    top: 1869px;
   }
   .p11 {
-    top: 1689px;
+    top: 1869px;
   }
 }
 /* @media only screen and (min-width: 320px) and (max-width: 414px) {
