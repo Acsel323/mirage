@@ -127,6 +127,21 @@
     margin-right: -50%;
     transform: translate(-50%, -50%);
   }
+  .t2 {
+    top: ;
+  }
+  .t3 {
+    top: ;
+  }
+  .t4 {
+    top: ;
+  }
+  .t5 {
+    top: ;
+  }
+  .t6 {
+    top: ;
+  }
   .ochki1 {
     background: url('../images/ochki12.png');
     width: 210px;
@@ -170,6 +185,9 @@
   }
   .cen {
     font-size: 25px;
+  }
+  .t1 {
+    opacity: 0;
   }
 }
 /* @media only screen and (min-width: 568px) and (max-width: 768px) {
