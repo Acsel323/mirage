@@ -125,4 +125,13 @@
 @media only screen  and (min-width: 1840px) {
   body {
   }
+  .reklama {
+    height: 650px;
+  }
+  .kr1 {
+    top: 810px
+  }
+  .kr2 {
+    top: 832px;
+  }
 }
