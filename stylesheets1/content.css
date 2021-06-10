@@ -138,6 +138,9 @@ body {
   position: absolute;
   left: 14.06%;
   top: 1265px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
 }
 .kv1 {
   position: absolute;
@@ -182,6 +185,9 @@ body {
   position: absolute;
   left: 8.13%;
   top: 1578px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
 }
 .kv3 {
   background-color: #EDF060;
@@ -207,6 +213,9 @@ body {
   height: 24px;
   left: 42.42%;
   top: 1842px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
 }
 .p9 {
   font-family: Montserrat;
@@ -226,5 +235,8 @@ body {
   left: 42.42%;
   top: 1845px;
   color: #000000;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
 
 }
