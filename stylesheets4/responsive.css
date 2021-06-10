@@ -66,7 +66,11 @@
     left: 1300px;
     top: 238px;
   }
+  .kart {
+    /* <iframe class = "karta" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.7203257477317!2d37.504246816178!3d55.676463380533015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54d000beac861%3A0x7e54c0444a6f6058!2z0L_RgC4g0JLQtdGA0L3QsNC00YHQutC-0LPQviwgMznQkSwg0JzQvtGB0LrQstCwLCBNb3Njb3cgT2JsYXN0LCAxMTk0MTU!5e0!3m2!1sru!2sru!4v1623066402938!5m2!1sru!2sru" width="1150" height="800" style="border:0;" allowfullscreen="" loading="lazy"></iframe>  */
+    height: 655px;
+  }
   .karta {
-    <iframe class = "karta" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.7203257477317!2d37.504246816178!3d55.676463380533015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54d000beac861%3A0x7e54c0444a6f6058!2z0L_RgC4g0JLQtdGA0L3QsNC00YHQutC-0LPQviwgMznQkSwg0JzQvtGB0LrQstCwLCBNb3Njb3cgT2JsYXN0LCAxMTk0MTU!5e0!3m2!1sru!2sru!4v1623066402938!5m2!1sru!2sru" width="1150" height="800" style="border:0;" allowfullscreen="" loading="lazy"></iframe> }
+    height: 663px;
   }
 }
