@@ -15,7 +15,7 @@ body {
   position: absolute;
 }
 .mirage {
-  background: url('../images/mirage1280.png');
+  background: url('../images/mirage1280.svg');
   width: 264px;
   height: 60px;
   background-repeat: no-repeat;
