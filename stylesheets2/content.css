@@ -1,3 +1,7 @@
+@font-face {
+ font-family: 'Montserrat';
+ src: url("../fonts/Montserrat-Regular.woff") format('woff');
+}
 body {
   width: 100%;
   margin: 0 auto;
@@ -329,4 +333,14 @@ opacity: 0;
 }
 .t6:hover > .ochki6 {
 opacity: 0;
+}
+
+.p1:hover {
+  color: #EDF060;
+}
+.p3:hover {
+  color: #EDF060;
+}
+.p4:hover {
+  color: #EDF060;
 }
