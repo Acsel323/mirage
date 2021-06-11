@@ -1,6 +1,10 @@
-@font-face {
+@@font-face {
  font-family: 'Montserrat';
  src: url("../fonts/Montserrat-Regular.woff") format('woff');
+}
+@font-face {
+ font-family: 'Polonium';
+ src: url("../fonts/Polonium.woff") format('woff');
 }
 body {
   width: 100%;
@@ -11,7 +15,7 @@ body {
   position: absolute;
 }
 .mirage {
-  background: url('../images/mirage1280.png');
+  background: url('../images/mirage1280.svg');
   width: 264px;
   height: 60px;
   background-repeat: no-repeat;
