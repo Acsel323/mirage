@@ -77,7 +77,7 @@ body {
   position: absolute;
   background: url('../images/text.png');
   left: 6.88%;
-  top: 90px;
+  top: 95px;
   z-index: 1;
   width: 1110px;
   height: 324px;
@@ -89,6 +89,7 @@ body {
   font-family: Polonium;
   position: absolute;
   letter-spacing: 0.1em;
+  color: black;
 }
 .px {
   font-family: Montserrat;
@@ -96,6 +97,7 @@ body {
   position: absolute;
   left: 6.88%;
   top: 502px;
+  color: black;
 }
 .kr1 {
   background-color: #EDF060;
