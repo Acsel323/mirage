@@ -14,6 +14,12 @@ body {
   display: block;
   position: absolute;
 }
+.png {
+  cursor: url('../images/cursor.png'), auto;
+}
+.svg {
+  cursor: url('../images/cursor.svg'), auto;
+}
 .mirage {
   background: url('../images/mirage1280.svg');
   width: 264px;
