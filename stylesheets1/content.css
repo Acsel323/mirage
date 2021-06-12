@@ -69,6 +69,10 @@ body {
   top: 45px;
   color: #000000;
 }
+.a1 {
+  position: absolute;
+  width: 100%;
+}
 .reklama {
   position: absolute;
   top: 121px;
