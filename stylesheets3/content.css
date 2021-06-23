@@ -109,10 +109,11 @@
 .kv1 {
   background: #EDF060;
   position: absolute;
-  width: 270px;
-  height: 52px;
-  left: 8.13%;
-  top: 709px;
+  width: 90.94%;
+  height: 433px;
+  left: 4.53%;
+  top: 801px;
+  display: none;
 }
 .kv2 {
   position: absolute;
@@ -172,10 +173,11 @@
 .kv3 {
   background: #EDF060;
   position: absolute;
-  width: 418px;
-  height: 103px;
-  left: 9.06%;
-  top: 1286px;
+  width: 514px;
+  height: 739px;
+  left: 4.53%;
+  top: 1442px;
+  display: none;
 }
 .kv4 {
   position: absolute;
@@ -203,10 +205,11 @@
 .kv5 {
   background: #EDF060;
   position: absolute;
-  width: 337px;
-  height: 137px;
-  left: 66.8%;
-  top: 1984px;
+  width: 491px;
+  height: 701px;
+  left: 57.11%;
+  top: 1262px;
+  display: none;
 }
 .kv6 {
   position: absolute;
@@ -220,10 +223,11 @@
 .kv7 {
   background: #EDF060;
   position: absolute;
-  width: 774px;
-  height: 103px;
-  left: 9.45%;
-  top: 2233px;
+  width: 90.94%;
+  height: 588px;
+  left: 4.53%;
+  top: 2393px;
+  display: none;
 }
 .kv8 {
   position: absolute;
@@ -269,4 +273,17 @@
 }
 .p4:hover {
   color: #EDF060;
+}
+
+.kv2:hover > .kv1 {
+  display: block;
+}
+.kv4:hover > .kv3 {
+  display: block;
+}
+.kv6:hover > .kv5 {
+  display: block;
+}
+.kv8:hover > .kv7 {
+  display: block;
 }
