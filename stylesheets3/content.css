@@ -175,7 +175,7 @@
   position: absolute;
   width: 514px;
   height: 739px;
-  left: 4.53%;
+  left: 5.4%;
   top: 1442px;
   display: none;
 }
@@ -207,7 +207,7 @@
   position: absolute;
   width: 491px;
   height: 701px;
-  left: 57.11%;
+  left: 57.81%;
   top: 1262px;
   display: none;
 }
@@ -275,15 +275,15 @@
   color: #EDF060;
 }
 
-.kv2:hover > .kv1 {
+.kv2:hover ~ .kv1 {
   display: block;
 }
-.kv4:hover > .kv3 {
+.kv4:hover ~ .kv3 {
   display: block;
 }
-.kv6:hover > .kv5 {
+.kv6:hover ~ .kv5 {
   display: block;
 }
-.kv8:hover > .kv7 {
+.kv8:hover ~ .kv7 {
   display: block;
 }
