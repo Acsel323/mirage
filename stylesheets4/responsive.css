@@ -34,6 +34,17 @@
   top: 32px;
   left: 5.99%;
 }
+.kart {
+  height: 583px;
+  width: 667px;
+}
+.karta {
+  height: 591px;
+  width: 675px;
+}
+.p6 {
+  top: 901px;
+}
 }
 /* @media only screen and (min-width: 320px) and (max-width: 414px) {
   body {
@@ -41,6 +52,18 @@
 } */
 @media only screen and (min-width: 414px) and (max-width: 567px) {
   body {
+    width: 100%;
+  }
+  .kart {
+    height: 387px;
+    width: 374px;
+  }
+  .karta {
+    height: 395px;
+    width: 382px;
+  }
+  .p6 {
+    top: 534px;
   }
 }
 /* @media only screen and (min-width: 568px) and (max-width: 768px) {
@@ -61,6 +84,7 @@
 } */
 @media only screen  and (min-width: 1840px) {
   body {
+    width: 100%;
   }
   .p6 {
     left: 1300px;
