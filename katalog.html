@@ -47,12 +47,20 @@
         $(".c6").click(function(){
           $(".ct6").removeClass("dis");
         });
+        $(".cena21").click(function(){
+          $(".cena2").addClass("dis");
+          $(".cena").removeClass("dis");
+        });
+        $(".cena23").click(function(){
+          $(".cena22").addClass("dis");
+          $(".cena24").removeClass("dis");
+        });
 
       });
     </script>
     <style media="screen">
     body::before {
-      content: "";
+      /* content: ""; */
       position: absolute;
       left: 0;
       top: 0;
@@ -93,14 +101,17 @@
         <p class = "cen">100$</p>
       </div>
       <div class="cena2 dis ct1">
-        <div class="cena21">
-          <p class = "pcen">-</p>
+        <div class="cena21 ck1">
+          <p class = "pcen ck1">-</p>
         </div>
-        <div class="cena22">
-          <p class = "pcen">1</p>
+        <div class="cena22 ck1">
+          <p class = "pcen ck1">1</p>
         </div>
-        <div class="cena23">
-          <p class = "pcen">+</p>
+        <div class="cena24 ck1 dis">
+          <p class = "pcem ck1">2</p>
+        </div>
+        <div class="cena23 ck1">
+          <p class = "pcen ck1">+</p>
         </div>
       </div>
       <div class="popup pop1 dis">
@@ -117,14 +128,20 @@
         <p class = "cen">100$</p>
       </div>
       <div class="cena2 dis ct2">
-        <div class="cena21">
-          <p class = "pcen">-</p>
+        <div class="cena21 ck2">
+          <p class = "pcen ck2">-</p>
         </div>
-        <div class="cena22">
-          <p class = "pcen">1</p>
+        <div class="cena24 ck1 dis">
+          <p class = "pcem ck1">2</p>
         </div>
-        <div class="cena23">
-          <p class = "pcen">+</p>
+        <div class="cena22 ck2">
+          <p class = "pcen ck2">1</p>
+        </div>
+        <div class="cena24 ck2 dis">
+          <p class = "pcem ck2">2</p>
+        </div>
+        <div class="cena23 ck2">
+          <p class = "pcen ck2">+</p>
         </div>
       </div>
       <div class="popup pop2 dis">
@@ -146,6 +163,9 @@
         </div>
         <div class="cena22">
           <p class = "pcen">1</p>
+        </div>
+        <div class="cena24 ck3 dis">
+          <p class = "pcem ck3">2</p>
         </div>
         <div class="cena23">
           <p class = "pcen">+</p>
@@ -171,6 +191,9 @@
         <div class="cena22">
           <p class = "pcen">1</p>
         </div>
+        <div class="cena24 ck4 dis">
+          <p class = "pcem ck4">2</p>
+        </div>
         <div class="cena23">
           <p class = "pcen">+</p>
         </div>
@@ -195,6 +218,9 @@
         <div class="cena22">
           <p class = "pcen">1</p>
         </div>
+        <div class="cena24 ck5 dis">
+          <p class = "pcem ck5">2</p>
+        </div>
         <div class="cena23">
           <p class = "pcen">+</p>
         </div>
@@ -202,7 +228,7 @@
       <div class="popup pop5 dis">
         <div class="kvx"></div>
         <div class="kvy">
-          <p class = "px">Тут описание</p>
+          <p class = "px">Вы слышете веселую музыку</p>
         </div>
       </div>
     </div>
@@ -219,6 +245,9 @@
         <div class="cena22">
           <p class = "pcen">1</p>
         </div>
+        <div class="cena2 ck6 dis">
+          <p class = "pcem ck6">2</p>
+        </div>
         <div class="cena23">
           <p class = "pcen">+</p>
         </div>
@@ -226,7 +255,7 @@
       <div class="popup pop4 dis">
         <div class="kvx"></div>
         <div class="kvy">
-          <p class = "px">Описание</p>
+          <p class = "px">Вы чувствуете вкус клубники</p>
         </div>
       </div>
     </div>
