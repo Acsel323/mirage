@@ -281,6 +281,16 @@ body {
   transform: translate(-50%, -50%);
   top: 50%;
 }
+.pcem {
+  position: absolute;
+  font-family: Montserrat;
+  font-size: 48px;
+  margin: 0;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  top: 50%;
+}
 .cena23 {
   position: absolute;
   background: #EDF060;
