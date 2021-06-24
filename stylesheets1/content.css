@@ -86,10 +86,10 @@ body {
 .text {
   position: absolute;
   background: url('../images/text.png');
-  left: 6.88%;
-  top: 95px;
+  left: 19.75%;
+  top: 105px;
   z-index: 1;
-  width: 100%;
+  width: 630px;
   height: 324px;
   background-repeat: no-repeat;
 }
